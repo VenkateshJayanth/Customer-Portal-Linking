@@ -1,0 +1,4 @@
+
+run the following command 
+
+regsvr32 C:\Users\pg02595\Downloads\Sybase\DataAccess\ODBC\dll\sybdrvodb.dll
